@@ -17,13 +17,15 @@ Durant les pràctiques vaig poder aplicar coneixements adquirits al cicle de DAM
 En general, valoro aquesta experiència molt positivament. M'ha permès conèixer de primera mà el funcionament d'una empresa de desenvolupament de programari, millorar les meves competències tècniques i adquirir experiència professional que serà molt útil per a la meva futura incorporació al mercat laboral.
 
 
-- [Juny 2025](juny2025.md)
-- [Juliol 2025](juliol2025.md)
-- [Setembre 2025](setembre2025.md)
-- [Octubre 2025](octubre2025.md)
-- [Novembre 2025](novembre2025.md)
-- [Desembre 2025](desembre2025.md)
-- [Gener 2026](gener2026.md)
-- [Febrer 2026](febrer2026.md)
-- [Març 2026](marc2026.md)
-- [Abril 2026](abril2026.md)
+## Diari de pràctiques
+
+- [Juny 2025](Juny2025.md)
+- [Juliol 2025](Juliol2025.md)
+- [Setembre 2025](Setembre2025.md)
+- [Octubre 2025](Octubre2025.md)
+- [Novembre 2025](Novembre2025.md)
+- [Desembre 2025](Desembre2025.md)
+- [Gener 2026](Gener2026.md)
+- [Febrer 2026](Febrer2026.md)
+- [Març 2026](Marc2026.md)
+- [Abril 2026](Abril2026.md)
