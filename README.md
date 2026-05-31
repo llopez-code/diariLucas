@@ -27,5 +27,5 @@ En general, valoro aquesta experiència molt positivament. M'ha permès conèixe
 - [Desembre 2025](Desembre2025.md)
 - [Gener 2026](Gener2026.md)
 - [Febrer 2026](Febrer2026.md)
-- [Març 2026](Marc2026.md)
+- [Març 2026](Març2026.md)
 - [Abril 2026](Abril2026.md)
